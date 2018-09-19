@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<CinemaModeConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EnableIntrosForMovies>true</EnableIntrosForMovies>
+  <EnableIntrosForEpisodes>true</EnableIntrosForEpisodes>
+  <EnableIntrosForWatchedContent>true</EnableIntrosForWatchedContent>
+  <EnableIntrosFromUpcomingTrailers>false</EnableIntrosFromUpcomingTrailers>
+  <EnableIntrosFromMoviesInLibrary>false</EnableIntrosFromMoviesInLibrary>
+  <EnableIntrosParentalControl>false</EnableIntrosParentalControl>
+  <EnableIntrosFromSimilarMovies>false</EnableIntrosFromSimilarMovies>
+  <CustomIntroPath>/media/ads</CustomIntroPath>
+  <MediaInfoIntroPath />
+  <EnableIntrosFromUpcomingDvdMovies>false</EnableIntrosFromUpcomingDvdMovies>
+  <EnableIntrosFromUpcomingStreamingMovies>false</EnableIntrosFromUpcomingStreamingMovies>
+  <TrailerLimit>2</TrailerLimit>
+</CinemaModeConfiguration>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PluginConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DropboxAppKey>tblsrtqg57pe1ga</DropboxAppKey>
+  <DropboxAppSecret>1t47owjft4hrk1c</DropboxAppSecret>
+  <SyncAccounts>
+    <DropboxSyncAccount>
+      <Id>da723858-1f1c-4055-8a3a-ab816b238ceb</Id>
+      <Name>Enflix</Name>
+      <AccessToken>W1s_OxUEH-AAAAAAAAAAlChd13CqS4ns0LPtTK9cizr2ZV7flvwOk5c-ul-hvLOP</AccessToken>
+      <EnableForEveryone>true</EnableForEveryone>
+      <UserIds />
+    </DropboxSyncAccount>
+  </SyncAccounts>
+</PluginConfiguration>

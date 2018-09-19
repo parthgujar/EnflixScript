@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PluginConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GoogleDriveClientId>902350450361-thvf2vc0fcg8u857bfehopdviklmba8h.apps.googleusercontent.com</GoogleDriveClientId>
+  <GoogleDriveClientSecret>ZKnZWf129kSgXLsfztR2zk7H</GoogleDriveClientSecret>
+  <SyncAccounts />
+</PluginConfiguration>

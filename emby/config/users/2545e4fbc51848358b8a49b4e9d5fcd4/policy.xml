@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<UserPolicy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IsAdministrator>false</IsAdministrator>
+  <IsHidden>false</IsHidden>
+  <IsDisabled>false</IsDisabled>
+  <MaxParentalRating xsi:nil="true" />
+  <BlockedTags />
+  <EnableUserPreferenceAccess>true</EnableUserPreferenceAccess>
+  <AccessSchedules />
+  <BlockUnratedItems />
+  <EnableRemoteControlOfOtherUsers>false</EnableRemoteControlOfOtherUsers>
+  <EnableSharedDeviceControl>false</EnableSharedDeviceControl>
+  <EnableRemoteAccess>true</EnableRemoteAccess>
+  <EnableLiveTvManagement>false</EnableLiveTvManagement>
+  <EnableLiveTvAccess>false</EnableLiveTvAccess>
+  <EnableMediaPlayback>true</EnableMediaPlayback>
+  <EnableAudioPlaybackTranscoding>true</EnableAudioPlaybackTranscoding>
+  <EnableVideoPlaybackTranscoding>false</EnableVideoPlaybackTranscoding>
+  <EnablePlaybackRemuxing>false</EnablePlaybackRemuxing>
+  <EnableContentDeletion>false</EnableContentDeletion>
+  <EnableContentDeletionFromFolders />
+  <EnableContentDownloading>false</EnableContentDownloading>
+  <EnableSyncTranscoding>true</EnableSyncTranscoding>
+  <EnableMediaConversion>false</EnableMediaConversion>
+  <EnabledDevices />
+  <EnableAllDevices>true</EnableAllDevices>
+  <EnabledChannels />
+  <EnableAllChannels>true</EnableAllChannels>
+  <EnabledFolders />
+  <EnableAllFolders>false</EnableAllFolders>
+  <InvalidLoginAttemptCount>0</InvalidLoginAttemptCount>
+  <EnablePublicSharing>false</EnablePublicSharing>
+  <RemoteClientBitrateLimit>0</RemoteClientBitrateLimit>
+  <AuthenticationProviderId>Emby.Server.Implementations.Library.DefaultAuthenticationProvider</AuthenticationProviderId>
+</UserPolicy>

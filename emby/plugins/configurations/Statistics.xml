@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<PluginConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserStats />
+  <MovieQualities>
+    <Title>Media Qualities</Title>
+    <ValueLineOne>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Movies&lt;/td&gt;&lt;td&gt;Episodes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;unkown&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt; 480P&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;480P&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;720P&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1080P&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1440P&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4K&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ValueLineOne>
+    <ValueLineTwo />
+    <Size>medium</Size>
+  </MovieQualities>
+  <MostActiveUsers>
+    <Title>Most Active Users</Title>
+    <ValueLineOne>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Days&lt;/td&gt;&lt;td&gt;Hours&lt;/td&gt;&lt;td&gt;Minutes&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;root&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;I Agree&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</ValueLineOne>
+    <ValueLineTwo />
+    <Size>medium</Size>
+    <ExtraInformation>Top 5 users that are the most active on the Emby server. This includes viewing movies and episodes.</ExtraInformation>
+  </MostActiveUsers>
+  <TotalUsers>
+    <Title>Total Users</Title>
+    <ValueLineOne>2</ValueLineOne>
+    <ValueLineTwo />
+    <Size>small</Size>
+  </TotalUsers>
+  <TotalMovies>
+    <Title>Total Movies</Title>
+    <ValueLineOne>17</ValueLineOne>
+    <ValueLineTwo />
+    <Size>small</Size>
+  </TotalMovies>
+  <TotalBoxsets>
+    <Title>Total Collections</Title>
+    <ValueLineOne>0</ValueLineOne>
+    <ValueLineTwo />
+    <Size>small</Size>
+  </TotalBoxsets>
+  <TotalMovieStudios>
+    <Title>Total Studio's</Title>
+    <ValueLineOne>0</ValueLineOne>
+    <ValueLineTwo />
+    <Size>small</Size>
+  </TotalMovieStudios>
+  <BiggestMovie>
+    <Title>Largest Movie</Title>
+    <ValueLineOne>3.2 Gb</ValueLineOne>
+    <ValueLineTwo>Ant-Man 2015 1080p WEB-DL x...</ValueLineTwo>
+    <Size>half</Size>
+    <Id>58a63ad5-1293-b121-e64f-1c41bd20f755</Id>
+  </BiggestMovie>
+  <LongestMovie>
+    <Title>Longest Movie Runtime</Title>
+    <ValueLineOne>02:49:03</ValueLineOne>
+    <ValueLineTwo>Interstellar (2014)</ValueLineTwo>
+    <Size>half</Size>
+    <Id>39dade9c-7a7b-267a-8c9a-f47ef5ad6066</Id>
+  </LongestMovie>
+  <LastUpdated>18/09/2018 23:45</LastUpdated>
+  <MovieQualityItems />
+  <TotalEpisodeCounts>
+    <LastUpdateTime>1537312999</LastUpdateTime>
+    <IdList />
+  </TotalEpisodeCounts>
+  <IsTheTvdbCallFailed>false</IsTheTvdbCallFailed>
+</PluginConfiguration>
